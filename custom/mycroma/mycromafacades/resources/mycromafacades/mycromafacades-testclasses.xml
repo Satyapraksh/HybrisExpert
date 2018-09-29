@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><mycromafacades><testclass>com.mycroma.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass><testclass>com.mycroma.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass></mycromafacades></testclasses>

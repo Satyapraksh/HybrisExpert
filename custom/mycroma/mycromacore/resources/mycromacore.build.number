@@ -1,0 +1,9 @@
+#Ant properties
+#Tue Aug 07 14:27:29 CEST 2018
+builddate=20180807 1426
+description=mycromacore
+name=mycromacore
+releasedate=20180313 1012
+vendor=hybris
+version=6.7.0.4
+version.api=6.7.0
